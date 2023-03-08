@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "ecom": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d684jbyta2zk6",
+          "type": "cicd"
+        }
       }
     }
   }
